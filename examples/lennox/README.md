@@ -36,5 +36,5 @@ Let's look at an example of what can be done below:
 -tn(https://i0.wp.com/iconshots.com/wp-content/uploads/2010/01/homefinal.jpg),
 -td(250x250),
 ```
-will produce something like this
-...
+will produce something like this  
+![Embed Builder](https://raw.githubusercontent.com/proxikal/AnnexJS/master/examples/lennox/lennox-example.png)
